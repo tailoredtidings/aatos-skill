@@ -43,3 +43,10 @@ Cursor (`~/.cursor/mcp.json`):
 Helps agents list/verify Stock Tokens, price with Chainlink, multi-venue quote, plan execute steps, and Morpho Earn deposits — with policy guardrails. Not for US brokerage equities (use Robinhood Trading MCP). Stock Tokens are restricted products; not investment advice.
 
 [![skills.sh](https://skills.sh/b/tailoredtidings/aatos-skill)](https://skills.sh/tailoredtidings/aatos-skill)
+
+## Guides (SEO / agent discovery)
+
+- Compare Trading MCP vs AATOS: https://aatos.dev/compare
+- Blog: https://aatos.dev/blog/
+- Best MCP for RH Chain Stock Tokens: https://aatos.dev/blog/best-mcp-robinhood-chain-stock-tokens-2026
+- Install: https://aatos.dev/blog/install-aatos-mcp
