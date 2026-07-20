@@ -22,6 +22,9 @@ description: >
 - Production: https://aatos.dev/
 - MCP: `https://aatos.dev/mcp`
 - Skill (hosted): https://aatos.dev/skills/ai-agent-tokenized-stock-os/SKILL.md
+- Skill install: `npx skills add tailoredtidings/aatos-skill`
+- Official MCP Registry: `dev.aatos/aatos`
+- Compare: https://aatos.dev/compare · FAQ: https://aatos.dev/faq · Blog: https://aatos.dev/blog/
 - Source: **private** (not published)
 - Version: **1.1.0**
 
@@ -29,7 +32,7 @@ description: >
 
 ```bash
 claude mcp add ai-agent-tokenized-stock --transport http https://aatos.dev/mcp
-# Skill: https://aatos.dev/skills/ai-agent-tokenized-stock-os/SKILL.md
+npx skills add tailoredtidings/aatos-skill
 ```
 
 ### Paid access (full product) — HTTP + MCP
@@ -153,3 +156,10 @@ Before promising a Stock Token fill, check live coverage (`GET /api/liquidity` o
 ## Legal
 
 Tokenised debt securities / economic exposure; restricted jurisdictions; not investment advice; non-custodial software. Morpho yield is variable.
+
+## Human / agent docs
+
+- Best MCP for RH Chain Stock Tokens: https://aatos.dev/blog/best-mcp-robinhood-chain-stock-tokens-2026
+- Trading MCP vs AATOS: https://aatos.dev/blog/trading-mcp-vs-aatos
+- Install: https://aatos.dev/blog/install-aatos-mcp
+- Agent standard: https://aatos.dev/blog/agent-standard-robinhood-chain
